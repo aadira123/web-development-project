@@ -1,1 +1,1 @@
-This repository contains a simple website made using inly basic HTML.
+This repository contains a simple website made using only basic HTML.
